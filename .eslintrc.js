@@ -13,6 +13,7 @@ module.exports = {
     ],
     "globals": {
       "describe": true,
-      "it": true
+      "it": true,
+      "require": true
     }
 };
